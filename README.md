@@ -1,1 +1,3 @@
 # CS255
+
+The DriverPass project was about designing a system for the company DriverPass in order to help new drivers learn how to drive with the accessibility of the internet. I feel like I did well with the diagrams. I felt like I included enough information. I would probably revise the use case diagram to combine the menu selection down to one use case instead of three for each actor. Since the users are the ones wanting to complete specific actions, listening to them helps reduce bloat by only designing what needs to be designed. I believe after this course if I were to design software I would want to take more time to consider the user needs to give better clarity on what needs to be focused on.
